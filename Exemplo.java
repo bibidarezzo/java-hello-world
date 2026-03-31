@@ -19,7 +19,11 @@ public class Exemplo {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+     
+        //Saída no terminal
         System.out.print("Hello World");
+     
+         //Saída na janela JOptionPane
         JOptionPane.showMessageDialog(null,"Hello World!");
     }
     
